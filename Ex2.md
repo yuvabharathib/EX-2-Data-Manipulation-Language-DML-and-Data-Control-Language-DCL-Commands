@@ -129,7 +129,7 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 ### OUTPUT:
 
 
-### Q14)Find maximum, minimum and average salary in EMP table.
+### Q14) Find maximum, minimum and average salary in EMP table.
 
 ### QUERY:
 
@@ -137,7 +137,7 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 ### OUTPUT:
 
 
-### Q15)List the jobs and number of employees in each job. The result should be in the descending order of the number of employees.
+### Q15) List the jobs and number of employees in each job. The result should be in the descending order of the number of employees.
 
 ### QUERY:
 
