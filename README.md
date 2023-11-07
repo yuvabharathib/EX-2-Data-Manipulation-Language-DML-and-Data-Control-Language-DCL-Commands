@@ -189,3 +189,6 @@ select designation,count(*) as number_employee from managers GROUP BY designatio
 ```
 ### OUTPUT:
 ![image](https://github.com/harinidq/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/113497680/2043256a-0c3a-4975-bc2c-56f1a47ac955)
+
+### RESULT:
+To create a manager database and execute DML queries using SQL is executed successfully.
